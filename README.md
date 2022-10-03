@@ -4,7 +4,7 @@
 
 
 # Words-Counter
- .NET Console Implemented Application used to count every word in given text.
+ .NET Console Implemented Application used to count words in given text.
  
 ## Usage
 
